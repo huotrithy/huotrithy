@@ -1,5 +1,4 @@
-Hi 👋 My name is Huot Rithy
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=436&lines=Hello+%F0%9F%91%8B+My+name+is+Rithy" alt="Typing SVG" />
+<a href="https://www.github.com/Liqaing"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=436&lines=Hello+%F0%9F%91%8B+My+name+is+Rithy" alt="Typing SVG" /></a>
 ===========================
 
 * 🌍  I'm based in Cambodia
