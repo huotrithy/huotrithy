@@ -33,7 +33,8 @@ src="https://img.shields.io/twitter/follow/rithy_16?logo=twitter&style=for-the-b
   </a>
 </div>
 
+<div style="display: flex, justify-content: center">
   <a href="https://github.com/Liqaing" style="display: inline-block; margin: 0 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=Liqaing&theme=onedark" alt="GitHub Trophies" />
   </a>
-
+</div>
